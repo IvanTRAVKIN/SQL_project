@@ -12,15 +12,15 @@ The data has been made available by Motivate International Inc. under a specific
 
 ### 🛠️ Project Structure and Objectives
 
-**Part 1 - Database Exploration (4 marks):**
+**Part 1 - Database Exploration :**
 - Explored the database and tables, considering data types, duplicates, and correctness.
 - Identified the common key between 'Trips' and 'Stations' tables.
 
-**Part 2 - Missing Stations Analysis (5 marks):**
+**Part 2 - Missing Stations Analysis :**
 - Imagined a scenario where the 'Stations' table hasn't been updated since 2013.
 - Determined unique stations in 'Trips' not present in 'Stations,' presenting results as a percentage.
 
-**Part 3 - Age Distribution and Trip Duration Analysis (7 marks):**
+**Part 3 - Age Distribution and Trip Duration Analysis :**
 
 *Part 3.1*
 - Extracted age from birth year in 'Trips' for 2018, computed average trip duration, and exported data for plotting in Excel.
