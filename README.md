@@ -1,4 +1,4 @@
-# 🚴‍♂️ Divvy Database Analysis - MSc in DMDS (2023-24) 🚴‍♀️
+# 🚴‍♂️ Divvy Database Analysis - MSc in DMDS (2023-24) 
 
 ## Project Description
 
